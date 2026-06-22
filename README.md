@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 화면 녹화 앱
 
 macOS용 SwiftUI 화면 녹화 앱입니다. `ScreenCaptureKit`으로 화면/창/지정 영역을 캡처하고, `AVAssetWriter`로 MP4/H.264 파일을 저장합니다.
@@ -39,3 +40,6 @@ Build/Screen Recorder.app
 처음 녹화할 때 macOS의 화면 녹화 권한 승인이 필요할 수 있습니다. 권한을 바꾼 뒤에는 앱을 다시 실행해야 할 수 있습니다.
 
 권한을 이미 허용했는데도 같은 권한 창이 반복되면 앱을 완전히 종료한 뒤 다시 실행하세요. 개발 중 앱을 새로 빌드하면 macOS가 기존 권한 항목을 새 앱으로 인식하지 못하는 경우가 있으므로, 시스템 설정의 화면 기록 목록에서 `Screen Recorder.app`을 껐다 켜거나 제거 후 다시 허용해야 할 수 있습니다.
+=======
+# mac_video_recording
+>>>>>>> 521e557b2a8dfaaf3f363168bcf7a19b08c739d1
